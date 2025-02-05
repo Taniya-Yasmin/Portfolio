@@ -165,6 +165,7 @@ figure {
   margin: 0 0 1rem; }
 
 img {
+  margin-top: 20px;
   vertical-align: middle;
   border-style: none; }
 
@@ -447,6 +448,7 @@ pre {
   overflow-y: scroll; }
 
 .container {
+  padding-top: 80px;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
